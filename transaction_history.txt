@@ -1,0 +1,54 @@
+
+12/Jan/2023 - 03:12 PM:
+Deposit: ï¿½10.0. 			New Balance: ï¿½10.0
+
+12/Jan/2023 - 03:14 PM:
+Withdrawal: ï¿½10.0. 			New Balance: ï¿½-10.0
+
+12/Jan/2023 - 03:17 PM:
+Deposit: ï¿½10000.75. 			New Balance: ï¿½10000.75
+
+12/Jan/2023 - 03:21 PM:
+Withdrawal: ï¿½5000000.0. 			New Balance: ï¿½-5000000.0
+
+12/Jan/2023 - 03:21 PM:
+Deposit: ï¿½1.0. 			New Balance: ï¿½-4999999.0
+
+12/Jan/2023 - 03:23 PM:
+Withdrawal: ï¿½10.0. 			New Balance: ï¿½-10.0
+
+12/Jan/2023 - 03:24 PM:
+Deposit: ï¿½10.0. 			New Balance: ï¿½10.0
+
+12/Jan/2023 - 03:25PM:
+Withdrawal: €10.0. 			New balance: €-10.0
+
+12/Jan/2023 - 03:25PM:
+Withdrawal: €10.0. 			New balance: €-10.0
+
+12/Jan/2023 - 03:32PM:
+Withdrawal: €10.0. 			New balance: €-10.0
+
+12/Jan/2023 - 03:32PM:
+Withdrawal: €10.0. 			New balance: €-20.0
+
+12/Jan/2023 - 03:32PM:
+Withdrawal: €10.0. 			New balance: €-10.0
+
+12/Jan/2023 - 03:32PM:
+Withdrawal: €10.0. 			New balance: €-20.0
+
+12/Jan/2023 - 03:33PM:
+Withdrawal: €10.0. 			New balance: €-10.0
+
+12/Jan/2023 - 03:35PM:
+Withdrawal: €10.0. 			New balance: €-10.0
+
+12/Jan/2023 - 03:36PM:
+Deposit: €10.0. 			New Balance: €10.0
+
+12/Jan/2023 - 03:45PM:
+Deposit: €10.0. 			New Balance: €10.0
+
+12/Jan/2023 - 03:48PM:
+Deposit: €1.55. 			New Balance: €1.55
